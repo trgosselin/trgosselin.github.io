@@ -25,15 +25,16 @@ author:
 description: > # this means to ignore newlines until "baseurl:"
   I am currently a data engineer for a CRO specializing in Medical Imaging, Pathology,
   and Genomics. I use this site to share some design patterns I have found useful.
+minima:
+  skin: solarized-dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/trgosselin" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/trgosselin/" }
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  trgosselin
 
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/trgosselin" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/trgosselin/" }
 
 # Build settings
 theme: minima
