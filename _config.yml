@@ -1,6 +1,6 @@
-title: Taylor Gosselin's Github Page
+title: Minimal theme
 logo: /assets/img/logo.png
-description: Pardon our appearence as we are remodelling
-show_downloads: false
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
